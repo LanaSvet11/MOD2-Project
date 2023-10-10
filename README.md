@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # MOD2-Project
 
 **Task List Web Application**
@@ -12,15 +14,15 @@ Search Movies: Effortlessly find movies by entering their titles or actors' name
 
 View Movie Details: Dive into the world of cinema with comprehensive movie details. Get access to the movie's cover, title, actor information, publication date, intriguing description, and user reviews.
 
-![Screenshot](./Screenshot-home%20page.png)
+![Screenshot](./Screenshot-home.png)
 
-![Screenshot](./Screenshot%20search%20result.png)
+![Screenshot](./Screenshot%20search%20result1.pngg)
 
-![Screenshot](<./Screenshot%20search%20result%20(view%20more).png>)
+![Screenshot](<./Screenshot%20search%20(view%20more).png>)
 
-![Screenshot](<./Screenshot view more page.png>)
+![Screenshot](./Screenshot%20view%20more.png)
 
-![Screenshot](<./Screenshot empty rearch.png>)
+![Screenshot](./Screenshot%20empty%20search.png)
 
 ## Technologies used
 
@@ -77,3 +79,6 @@ If you have any questions or suggestions, please feel free to contact:
 
 Email: sv.golovatenko@gmail.com
 LinkedIn: https://www.linkedin.com/in/svitlana-holovatenko/
+=======
+
+> > > > > > > 130b7e1a82a00f355a953e5e71baa9e7d6a0b284
