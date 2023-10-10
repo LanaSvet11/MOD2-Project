@@ -12,11 +12,15 @@ Search Movies: Effortlessly find movies by entering their titles or actors' name
 
 View Movie Details: Dive into the world of cinema with comprehensive movie details. Get access to the movie's cover, title, actor information, publication date, intriguing description, and user reviews.
 
-![Screenshot](Screenshot-home%20page.png/Screenshot-home page.png)
+![Screenshot](./Screenshot-home%20page.png)
 
-![Screenshot](./Screenshot%20empty%20rearch.pngScreenshot search result.png)
+![Screenshot](./Screenshot%20search%20result.png)
 
-![Screenshot](./Screenshot%20search%20result%20(view%20more).pngScreenshot search result (view more).png)
+![Screenshot](<./Screenshot%20search%20result%20(view%20more).png>)
+
+![Screenshot](<./Screenshot view more page.png>)
+
+![Screenshot](<./Screenshot empty rearch.png>)
 
 ## Technologies used
 
@@ -25,7 +29,7 @@ Built with:
 - REACT library using Vite
 - Bootstrap
 - Visual Studio Code
-- [TMDB API :](https://www.themoviedb.org/)
+- [TMDB API](https://www.themoviedb.org/)
 
 ## Getting Started
 
